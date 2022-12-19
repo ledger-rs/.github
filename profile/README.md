@@ -1,8 +1,10 @@
 # Preliminary
 
-The organization is created with the purpose of facilitating activities in creating a new version of Ledger, implemented in Rust
+This organization is created for the purpose of facilitating activities in creating a new version of Ledger, implemented in Rust programming language.
 
-Currently, there is only one repository, which is intended for collaboration in the early stage of the project.
+The main repository is Incubator, which is intended for collaboration in the initiation stage of the project.
+
+Additional repositories will be created for different purposes, as required.
 
 # Logo
 
