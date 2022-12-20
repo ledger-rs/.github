@@ -32,6 +32,4 @@ Additional repositories will be created for different purposes, as needed.
 
 Ledger is the initial program applying the [Plain-Text Accounting](https://plaintextaccounting.org/) principles.
 
-# Logo
-
 The (temporary) logo uses [Rust logo](https://foundation.rust-lang.org/policies/logo-policy-and-media-guide/) with modifications, to indicate a personal finance application Ledger, implemented in Rust programming language.
