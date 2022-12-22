@@ -28,6 +28,16 @@ The Wiki section contains some static references and is useful as a notepad for 
 
 Additional repositories are created or added for different purposes, as needed. Some existing implementations have joined the ranks and may be useful in the coming stages of the project.
 
+This is a place where we all act civil and respect others' points of view. The goal is for the project to provide value to all involved.
+
+# Workflow
+
+The Open Questions category contains the issues that require group collaboration and some sort of agreement before the decision is made and real work should follow. The idea is to measure three times and cut once, as the saying goes. The general idea in regards to the decisions is similar to the [RFC process](https://rust-lang.github.io/rfcs/) that Rust organization is using. The point behind being to encourage community feedback on ideas and proposals.
+
+Polls should be activated where a simple vote count is needed. Normally, once several options are identified in a discussion, it can be put to a vote. The poll options can not be modified without resetting the votes so it is recommended to thoroughly discuss a topic in a separate thread first.
+
+The general workflow proposal is outlined in https://github.com/ledger-rs/ledger-cli-rs/discussions/24.
+
 # Impressum
 
 Ledger is the initial program applying the [Plain-Text Accounting](https://plaintextaccounting.org/) principles.
